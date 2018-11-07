@@ -49,3 +49,4 @@ Note (m.u.) is shorthand for *monetary units*.
 8) `Region`: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal) # customer_segment
 # customer_segment
 # customer_segment
+# customer_segment
